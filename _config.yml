@@ -1,13 +1,13 @@
-site: Colorie
+site: Nothing New Under The Sun
 url: 
-author: Colorie
+author: 
 author:
-  name: Colorie
+  name: 
   email: 
   url: 
   avatar: 
-title: Colorie
-description: Colorie - Single column blog and portfolio Jekyll theme 
+title: Nothing New Under The Sun
+description: No New Gods 
 logo: 
 image: 
 twitter: ronaldsvilcins  
@@ -56,9 +56,9 @@ collections:
   posts:
     output: true
     permalink: /:year/:month/:day/:slug
-  projects:
-    output: true
-    permalink: /projects/:slug
+  # projects:
+  #   output: true
+  #   permalink: /projects/:slug
   
 defaults:
   -
