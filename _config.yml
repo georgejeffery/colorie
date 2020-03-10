@@ -16,14 +16,14 @@ twitter:
   creator: 
   card: 
 social:
-  name: Ronalds Vilcins
+  name: 
   links:
     - https://twitter.com/#
     - https://www.dribbble.com/#
     - https://github.com/#
     - https://codepen.io/#
   
-permalink: date
+permalink: /:categories/:year/:month/:day/:title:output_ext
 
 disqus:
   name: "your disqus username" # required
