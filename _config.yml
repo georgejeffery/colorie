@@ -23,7 +23,7 @@ social:
     - https://github.com/#
     - https://codepen.io/#
   
-permalink: pretty
+permalink: date
 
 disqus:
   name: "your disqus username" # required
@@ -52,10 +52,10 @@ plugins:
 collections:
   pages:
     output: true
-    permalink: /:name
+    permalink: /:name:output_ext
   posts:
     output: true
-    permalink: /:year/:month/:day/:slug
+    permalink: /:year/:month/:day/:slug:output_ext
   # projects:
   #   output: true
   #   permalink: /projects/:slug
